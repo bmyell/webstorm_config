@@ -1,0 +1,7 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '[test_database] - .../test.php'" />
+    <option name="defaultScopeName" value="File '[test_database] - .../test.php'" />
+    <option name="SEARCH_SCOPE" value="File '[test_database] - .../test.php'" />
+  </component>
+</application>
