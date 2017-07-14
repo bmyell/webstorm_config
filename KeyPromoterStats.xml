@@ -7,10 +7,11 @@
         <entry key="'Alt+J'" value="1" />
         <entry key="'Alt+Shift+J'" value="1" />
         <entry key="'Ctrl+Alt+S'" value="4" />
+        <entry key="'Ctrl+Alt+Shift+H'" value="1" />
         <entry key="'Ctrl+Alt+Shift+U'" value="1" />
         <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="1" />
         <entry key="'Ctrl+V' or 'Shift+Insert'" value="1" />
-        <entry key="'Delete'" value="1" />
+        <entry key="'Delete'" value="2" />
         <entry key="'F4'" value="1" />
       </map>
     </option>
